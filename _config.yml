@@ -1,10 +1,11 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Project Pythia Cookbook Template
+title: HEALPix Cookbook
+description: Showcase of loading in, visualizing, and analyzing HEALPix data using EasyGEMS and UXarray
 author: the <a href="https://projectpythia.org/">Project Pythia</a> Community
 logo: notebooks/images/logos/pythia_logo-white-rtext.svg
-copyright: "2024"
+copyright: "2025"
 
 execute:
   # To execute notebooks via a Binder instead, replace 'cache' with 'binder'
