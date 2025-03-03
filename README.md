@@ -14,7 +14,7 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ## Authors
 
-[Orhan Eroglu](@erogluorhan), [Andrew Gettelman](@agettelman), [John Clyne](@clyne) _Acknowledge primary content authors here_
+[Orhan Eroglu](https://github.com/erogluorhan), [Andrew Gettelman](https://github.com/andrewgettelman), [John Clyne](https://github.com/clyne)
 
 ### Contributors
 
