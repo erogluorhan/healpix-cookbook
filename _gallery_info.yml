@@ -1,6 +1,10 @@
 thumbnail: thumbnail.png
 tags:
   domains:
-    - sampledomain
+    - climate modeling
+    - spatial analysis
+    - visualization
   packages:
-    - samplepackage
+    - easygems
+    - uxarray
+    
