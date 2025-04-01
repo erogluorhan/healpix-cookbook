@@ -1,16 +1,23 @@
-<img src="thumbnail.png" alt="thumbnail" width="300"/>
+<p align="center">
+  <img style="float: right;" src="https://healpix.sourceforge.io/images/gorski_f1.jpg" width="150" />
+  <img style="float: right;" src="https://easy.gems.dkrz.de/_static/gems.png" width="350" />
+  <img style="float: right;" src="https://raw.githubusercontent.com/UXARRAY/uxarray/a6aa6294975f189e8c36dd3d14da745526e53e06/docs/_static/images/logos/uxarray_logo_v_dark.svg" width="165" />
+</p>
 
 # HEALPix Cookbook
 
-[![nightly-build](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml)
-[![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
+[![nightly-build](https://github.com/ProjectPythia/healpix-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/healpix-cookbook/actions/workflows/nightly-build.yaml)
+[![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/healpix-cookbook/main?labpath=notebooks)
 [![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
 
-This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
+This Project Pythia Cookbook covers an introduction to the [**H**ierarchical **E**qual **A**rea iso**L**atitude **Pix**elation (HEALPix)](https://healpix.sourceforge.io/) of the Earth and utilization of 
+[easy.gems](https://easy.gems.dkrz.de/index.html#) and [UXarray](https://uxarray.readthedocs.io/) to run data analysis and visualization functionality on HEALPix data sets.
 
 ## Motivation
 
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
+Driven by [The 2025 World Climate Research Programme (WCRP) Digital Earths Global KM-scale Hackathon](https://www.wcrp-esmo.org/activities/wcrp-global-km-scale-hackathon-2025) taking place 12-16 May, a need 
+for exploring HEALPix and documenting HEALPix-based workflows that utilize community reosurces such as the easy.gems documentation and UXarray software tool has emerged. Project Pythia Cookbooks are a great 
+medium to publish such docuemntation in an accessible, reproducable, and citable manner, which can benefit not only the 2025 event but also future collaboration efforts and similar events.
 
 ## Authors
 
@@ -18,8 +25,8 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ### Contributors
 
-<a href="https://github.com/ProjectPythia/cookbook-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ProjectPythia/cookbook-template" />
+<a href="https://github.com/ProjectPythia/healpix-cookbook/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ProjectPythia/healpix-cookbook" />
 </a>
 
 ## Structure
