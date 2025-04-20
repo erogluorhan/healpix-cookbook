@@ -31,15 +31,21 @@ medium to publish such docuemntation in an accessible, reproducable, and citable
 
 ## Structure
 
-(State one or more sections that will comprise the notebook. E.g., _This cookbook is broken up into two main sections - "Foundations" and "Example Workflows."_ Then, describe each section below.)
+This cookbook is broken up into a few sections as follows:
 
-### Section 1 ( Replace with the title of this section, e.g. "Foundations" )
+### 1. Introduction to HEALPix
 
-(Add content for this section, e.g., "The foundational content includes ... ")
+Here, we cover basic information about HEALPix necessary to understand the topics throughout the cookbook 
+and provide a lot of links to the resources in order to learn more about HEALPix. 
 
-### Section 2 ( Replace with the title of this section, e.g. "Example workflows" )
+### 2. Analyze HEALPix with easy.gems
 
-(Add content for this section, e.g., "Example workflows include ... ")
+This section provides examples of how to load in HEALPix data and use easygems package's convenience functions 
+to plot the data with matplotlib.
+
+### 3. Analyze HEALPix with UXarray
+
+This section walks the reader through loading in, analyzing, and visualizing HEALPix data using UXarray.
 
 ## Running the Notebooks
 
@@ -71,22 +77,20 @@ executable book chapter.
 
 If you are interested in running this material locally on your computer, you will need to follow this workflow:
 
-(Replace "cookbook-example" with the title of your cookbooks)
-
-1. Clone the `https://github.com/ProjectPythia/cookbook-example` repository:
+1. Clone the `https://github.com/ProjectPythia/healpix-cookbook` repository:
 
    ```bash
-    git clone https://github.com/ProjectPythia/cookbook-example.git
+    git clone https://github.com/ProjectPythia/healpix-cookbook.git
    ```
 
-1. Move into the `cookbook-example` directory
+1. Move into the `healpix-cookbook` directory
    ```bash
-   cd cookbook-example
+   cd healpix-cookbook
    ```
 1. Create and activate your conda environment from the `environment.yml` file
    ```bash
    conda env create -f environment.yml
-   conda activate cookbook-example
+   conda activate healpix-cookbook
    ```
 1. Move into the `notebooks` directory and start up Jupyterlab
    ```bash
