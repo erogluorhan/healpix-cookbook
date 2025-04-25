@@ -33,19 +33,24 @@ medium to publish such docuemntation in an accessible, reproducable, and citable
 
 This cookbook is broken up into a few sections as follows:
 
-### 1. Introduction to HEALPix
+### 1. HEALPix Overview
 
 Here, we cover basic information about HEALPix necessary to understand the topics throughout the cookbook 
 and provide a lot of links to the resources in order to learn more about HEALPix. 
 
-### 2. Analyze HEALPix with easy.gems
+### 2. easy.gems for HEALPix Analysis & Visualization
 
-This section provides examples of how to load in HEALPix data and use easygems package's convenience functions 
-to plot the data with matplotlib.
+This section provides examples of how to load in HEALPix data, use `healpix` package for basic HEALPix 
+statistics use `easygems` package's convenience functions to plot the data with matplotlib.
 
-### 3. Analyze HEALPix with UXarray
+### 3. UXarray for Basic HEALPix Statistics & Visualization
 
-This section walks the reader through loading in, analyzing, and visualizing HEALPix data using UXarray.
+This section walks the reader through loading in and performing basic analysis and visualization on HEALPix 
+data using UXarray.
+
+### 4. Advanced UXarray Analysis and Visualization for HEALPix Data
+
+This section will cover advanced UXarray functionality such as remapping, zonal means, cross sections, etc.
 
 ## Running the Notebooks
 

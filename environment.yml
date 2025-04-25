@@ -1,7 +1,17 @@
-name: cookbook-dev
+name: healpix-cookbook-dev
 channels:
   - conda-forge
 dependencies:
+  - aiohttp
+  - cmocean
+  - easygems
+  - healpix
+  - intake==0.7.0
+  - intake-esm
+  - intake-stac
+  - intake-xarray==0.7.0
   - jupyter-book
   - jupyterlab
   - sphinx-pythia-theme
+  - uxarray
+  - zarr<3.0.0
