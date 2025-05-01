@@ -1,7 +1,7 @@
 <p align="center">
-  <img style="float: right;" src="https://healpix.sourceforge.io/images/gorski_f1.jpg" width="100" />
-  <img style="float: right;" src="https://easy.gems.dkrz.de/_static/gems.png" width="230" />
   <img style="float: right;" src="https://raw.githubusercontent.com/UXARRAY/uxarray/a6aa6294975f189e8c36dd3d14da745526e53e06/docs/_static/images/logos/uxarray_logo_v_dark.svg" width="110" />
+  <img style="float: right;" src="https://easy.gems.dkrz.de/_static/gems.png" width="230" />
+  <img style="float: right;" src="https://healpix.sourceforge.io/images/gorski_f1.jpg" width="100" />
 </p>
 
 # HEALPix Cookbook
