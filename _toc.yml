@@ -4,6 +4,11 @@ parts:
   - caption: Preamble
     chapters:
       - file: notebooks/how-to-cite
-  - caption: Introduction
+  - caption: Introduction to HEALPix
     chapters:
-      - file: notebooks/notebook-template
+      - file: notebooks/healpix
+  - caption: HEALPix Analysis & Visualization
+    chapters:
+      - file: notebooks/easygems
+      - file: notebooks/uxarray
+      - file: notebooks/uxarray-advanced
