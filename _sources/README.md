@@ -8,7 +8,7 @@
 
 [![nightly-build](https://github.com/ProjectPythia/healpix-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/healpix-cookbook/actions/workflows/nightly-build.yaml)
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/healpix-cookbook/main?labpath=notebooks)
-[![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
+[![DOI](https://zenodo.org/badge/942299848.svg)](https://zenodo.org/badge/latestdoi/942299848)
 
 This Project Pythia Cookbook covers an introduction to the [**H**ierarchical **E**qual **A**rea iso**L**atitude **Pix**elation (HEALPix)](https://healpix.sourceforge.io/) of the Earth and utilization of 
 [easy.gems](https://easy.gems.dkrz.de/index.html#) and [UXarray](https://uxarray.readthedocs.io/) to run data analysis and visualization functionality on HEALPix data sets.
