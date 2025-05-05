@@ -21,7 +21,7 @@ medium to publish such documentation in an accessible, reproducible, and citable
 
 ## Authors
 
-[Orhan Eroglu](https://github.com/erogluorhan), [Andrew Gettelman](https://github.com/andrewgettelman), [John Clyne](https://github.com/clyne)
+[Orhan Eroglu](https://github.com/erogluorhan), [Philip Chmielowiec](https://github.com/philipc2), [Andrew Gettelman](https://github.com/andrewgettelman), [John Clyne](https://github.com/clyne)
 
 ### Contributors
 
