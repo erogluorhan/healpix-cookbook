@@ -16,8 +16,8 @@ This Project Pythia Cookbook covers an introduction to the [**H**ierarchical **E
 ## Motivation
 
 Driven by [The 2025 World Climate Research Programme (WCRP) Digital Earths Global KM-scale Hackathon](https://www.wcrp-esmo.org/activities/wcrp-global-km-scale-hackathon-2025) taking place 12-16 May, a need 
-for exploring HEALPix and documenting HEALPix-based workflows that utilize community reosurces such as the easy.gems documentation and UXarray software tool has emerged. Project Pythia Cookbooks are a great 
-medium to publish such docuemntation in an accessible, reproducable, and citable manner, which can benefit not only the 2025 event but also future collaboration efforts and similar events.
+for exploring HEALPix and documenting HEALPix-based workflows that utilize community resources such as the easy.gems documentation and UXarray software tool has emerged. Project Pythia Cookbooks are a great 
+medium to publish such documentation in an accessible, reproducible, and citable manner, which can benefit not only the 2025 event but also future collaboration efforts and similar events.
 
 ## Authors
 
@@ -50,7 +50,7 @@ data using UXarray.
 
 ### 4. Advanced UXarray Analysis and Visualization for HEALPix Data
 
-This section will cover advanced UXarray functionality such as remapping, zonal means, cross sections, etc.
+This section will cover advanced UXarray functionality such as remapping, zonal means, cross-sections, etc.
 
 ## Running the Notebooks
 
