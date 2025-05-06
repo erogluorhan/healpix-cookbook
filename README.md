@@ -10,13 +10,13 @@
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/healpix-cookbook/main?labpath=notebooks)
 [![DOI](https://zenodo.org/badge/942299848.svg)](https://zenodo.org/badge/latestdoi/942299848)
 
-This Project Pythia Cookbook covers an introduction to the [**H**ierarchical **E**qual **A**rea iso**L**atitude **Pix**elation (HEALPix)](https://healpix.sourceforge.io/) of the Earth and utilization of 
+This Project Pythia Cookbook covers an introduction to the [**H**ierarchical **E**qual **A**rea iso**L**atitude **Pix**elation (HEALPix)](https://healpix.sourceforge.io/) of the Earth and utilization of
 [easy.gems](https://easy.gems.dkrz.de/index.html#) and [UXarray](https://uxarray.readthedocs.io/) to run data analysis and visualization functionality on HEALPix data sets.
 
 ## Motivation
 
-Driven by [The 2025 World Climate Research Programme (WCRP) Digital Earths Global KM-scale Hackathon](https://www.wcrp-esmo.org/activities/wcrp-global-km-scale-hackathon-2025) taking place 12-16 May, a need 
-for exploring HEALPix and documenting HEALPix-based workflows that utilize community resources such as the easy.gems documentation and UXarray software tool has emerged. Project Pythia Cookbooks are a great 
+Driven by [The 2025 World Climate Research Programme (WCRP) Digital Earths Global KM-scale Hackathon](https://www.wcrp-esmo.org/activities/wcrp-global-km-scale-hackathon-2025) taking place 12-16 May, a need
+for exploring HEALPix and documenting HEALPix-based workflows that utilize community resources such as the easy.gems documentation and UXarray software tool has emerged. Project Pythia Cookbooks are a great
 medium to publish such documentation in an accessible, reproducible, and citable manner, which can benefit not only the 2025 event but also future collaboration efforts and similar events.
 
 ## Authors
@@ -35,17 +35,17 @@ This cookbook is broken up into a few sections as follows:
 
 ### 1. HEALPix Overview
 
-Here, we cover basic information about HEALPix necessary to understand the topics throughout the cookbook 
-and provide a lot of links to the resources in order to learn more about HEALPix. 
+Here, we cover basic information about HEALPix necessary to understand the topics throughout the cookbook
+and provide a lot of links to the resources in order to learn more about HEALPix.
 
 ### 2. easy.gems for HEALPix Analysis & Visualization
 
-This section provides examples of how to load in HEALPix data, use `healpix` package for basic HEALPix 
+This section provides examples of how to load in HEALPix data, use `healpix` package for basic HEALPix
 statistics use `easygems` package's convenience functions to plot the data with matplotlib.
 
 ### 3. UXarray for Basic HEALPix Statistics & Visualization
 
-This section walks the reader through loading in and performing basic analysis and visualization on HEALPix 
+This section walks the reader through loading in and performing basic analysis and visualization on HEALPix
 data using UXarray.
 
 ### 4. Advanced UXarray Analysis and Visualization for HEALPix Data
