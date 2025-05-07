@@ -52,6 +52,12 @@ data using UXarray.
 
 This section will cover advanced UXarray functionality such as remapping, zonal means, cross-sections, etc.
 
+### 5. When to Use Each?
+
+This section is currently under construction, but once complete, we hope to provide some practical guidance 
+on what cases either of `easy.gems` or `uxarray` can provide helpful functionality and would be a 
+ideal choice.
+
 ## Running the Notebooks
 
 You can either run the notebook using [Binder](https://binder.projectpythia.org/) or on your local machine.

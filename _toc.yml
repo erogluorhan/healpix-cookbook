@@ -14,3 +14,4 @@ parts:
       - file: notebooks/01-easygems
       - file: notebooks/02-uxarray
       - file: notebooks/03-uxarray-advanced
+      - file: notebooks/04-when-to-use-each
