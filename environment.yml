@@ -15,3 +15,4 @@ dependencies:
   - sphinx-pythia-theme
   - uxarray
   - zarr<3.0.0
+  - mystmd
