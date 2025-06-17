@@ -1,1 +1,1 @@
-import{b as a}from"/healpix-cookbook/build/_shared/chunk-KXDZNNUH.js";import"/healpix-cookbook/build/_shared/chunk-J6FHCSRC.js";import"/healpix-cookbook/build/_shared/chunk-2NH4LW52.js";export{a as unified};
+import{b as a}from"/healpix-cookbook/_preview/7/build/_shared/chunk-KXDZNNUH.js";import"/healpix-cookbook/_preview/7/build/_shared/chunk-J6FHCSRC.js";import"/healpix-cookbook/_preview/7/build/_shared/chunk-2NH4LW52.js";export{a as unified};
